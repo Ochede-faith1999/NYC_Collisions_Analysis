@@ -108,7 +108,7 @@ This NYC collision data analysis reveals clear patterns in timing, location, and
 [Data](https://docs.google.com/spreadsheets/d/1huf7nbHNZdzr4N6QUvURxeWU-G27KSYU3Kl3v_heXgw/edit#gid=1166525029)
 
 ## VIDEO DEMO
-[Dashboard Walkthrough]
+[Dashboard Walkthrough](https://youtu.be/5ozsfwgpsm4?si=VYMbfp8AF4nb6jIw)
 
 ## CONNECT WITH ME
 - [LinkedIn](https://www.linkedin.com/in/ochede-faith-15207a224)
